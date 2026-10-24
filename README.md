@@ -27,7 +27,7 @@ Programa de escritorio con interfaz gráfica que convierte el audio de un video 
 
 1. Descargá o cloná el repositorio:
    ```
-   git clone https://github.com/TU_USUARIO/transcriptor.git
+   git clone https://github.com/JDMino/transcriptor.git
    cd transcriptor
    ```
 2. Ejecutá el programa:
